@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 I´m Yegor. I´ve some exprience working in automation using Siemens PLC´s and now I´m learning robotics at the University of Malaga (UMA)
 
