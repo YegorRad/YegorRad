@@ -3,7 +3,7 @@
 I'm Yegor, a robotics enthusiast currently studying at the University of Malaga (UMA). I have a strong background in industrial automation and I'm passionate about applying my skills to the field of robotics.
 
 - 🎓 Currently studying Robotics Engineering at the University of Malaga (UMA)
-- 🤖 Member of the RoboRescue UMA Team, focused on autonomous robot development
+- 🤖 Member of STAR UMA (Student Team of Advanced Robotics), focused on autonomous robot development
 - 🛠️ Professional degree in Industrial Automation and Robotics
 - 🥇 Gold medalist in the 2023 Regional Industrial Programming Competition in Cantabria
 - 🇪🇸 Represented Cantabria in the 2024 Spanish National Industrial Programming Competition
